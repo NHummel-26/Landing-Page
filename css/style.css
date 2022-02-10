@@ -1,0 +1,43 @@
+div {
+    border-width: 5px;
+    border-style: solid;
+    border-color: red;
+}
+
+
+
+
+
+
+.header {
+    padding: 30px;
+    background-color: #1f2937;
+    
+
+}
+
+.body1 {
+    padding: 200px;
+    background-color: #1f2937;
+    
+}
+
+.body2 {
+    padding: 200px;
+    background-color: white;
+}
+
+.body3 {
+    padding: 200px;
+    background-color: #d8dbe0;
+}
+
+.body4 {
+    padding: 200px;
+    background-color: white;
+}
+
+.footer {
+    padding: 30px;
+    background-color: #1f2937
+}
